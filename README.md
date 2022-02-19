@@ -1,4 +1,6 @@
 # Rejuro_project
+Не доделано. Переписать vue.js -> react.js; доделать дизайн
+---
 Description: New web-platform with any different instruments
 ---
 Feautures tools:<br> 
